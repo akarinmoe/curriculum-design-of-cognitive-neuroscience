@@ -1,2 +1,0 @@
-已将本次实验和报告开源在github仓库中，链接如下：
-https://github.com/akarinmoe/curriculum-design-of-cognitive-neuroscience
