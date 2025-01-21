@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is the curriculum design of cognitive neuroscience advised by Hao Wu
+This repo is the curriculum design of cognitive neuroscience advised by Professor Hao Wu
 
 1120222370 谢惟楚
 
