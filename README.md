@@ -11,6 +11,7 @@ This repo is the curriculum design of cognitive neuroscience advised by Hao Wu
 - Course report
 - Thought experiment
 - Programming experiment
+- Code for programming experiment
 
 ## Reference
 
