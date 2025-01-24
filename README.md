@@ -17,7 +17,7 @@ This repo is the curriculum design of cognitive neuroscience advised by Professo
 
 [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3)
 
-[REM sleep and memory consolidation](https://pubmed.ncbi.nlm.nih.gov/213132/)
+[Sleep microstructure organizes memory replay](https://www.nature.com/articles/s41586-024-08340-w)
 
 [Sleep is required to consolidate odor memory and remodel olfactory synapses](https://pmc.ncbi.nlm.nih.gov/articles/PMC10354834/)
 
